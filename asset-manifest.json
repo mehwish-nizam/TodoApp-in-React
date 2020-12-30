@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/TodoApp-in-React/static/css/main.3648b5ec.chunk.css",
-    "main.js": "/TodoApp-in-React/static/js/main.8cd139f5.chunk.js",
-    "main.js.map": "/TodoApp-in-React/static/js/main.8cd139f5.chunk.js.map",
-    "runtime-main.js": "/TodoApp-in-React/static/js/runtime-main.ff6f1b20.js",
-    "runtime-main.js.map": "/TodoApp-in-React/static/js/runtime-main.ff6f1b20.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/TodoApp-in-React/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.8f0d64aa.chunk.js": "/TodoApp-in-React/static/js/2.8f0d64aa.chunk.js",
-    "static/js/2.8f0d64aa.chunk.js.map": "/TodoApp-in-React/static/js/2.8f0d64aa.chunk.js.map",
-    "index.html": "/TodoApp-in-React/index.html",
-    "precache-manifest.71bba0460770759024ad1d8f60f37272.js": "/TodoApp-in-React/precache-manifest.71bba0460770759024ad1d8f60f37272.js",
-    "service-worker.js": "/TodoApp-in-React/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/TodoApp-in-React/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.3648b5ec.chunk.css.map": "/TodoApp-in-React/static/css/main.3648b5ec.chunk.css.map",
-    "static/js/2.8f0d64aa.chunk.js.LICENSE.txt": "/TodoApp-in-React/static/js/2.8f0d64aa.chunk.js.LICENSE.txt"
+    "main.css": "/redux-sample/static/css/main.3648b5ec.chunk.css",
+    "main.js": "/redux-sample/static/js/main.64d8075d.chunk.js",
+    "main.js.map": "/redux-sample/static/js/main.64d8075d.chunk.js.map",
+    "runtime-main.js": "/redux-sample/static/js/runtime-main.f9573c0f.js",
+    "runtime-main.js.map": "/redux-sample/static/js/runtime-main.f9573c0f.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/redux-sample/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.58c2646c.chunk.js": "/redux-sample/static/js/2.58c2646c.chunk.js",
+    "static/js/2.58c2646c.chunk.js.map": "/redux-sample/static/js/2.58c2646c.chunk.js.map",
+    "index.html": "/redux-sample/index.html",
+    "precache-manifest.b32bbf8214db5565653226cde768aa48.js": "/redux-sample/precache-manifest.b32bbf8214db5565653226cde768aa48.js",
+    "service-worker.js": "/redux-sample/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/redux-sample/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.3648b5ec.chunk.css.map": "/redux-sample/static/css/main.3648b5ec.chunk.css.map",
+    "static/js/2.58c2646c.chunk.js.LICENSE.txt": "/redux-sample/static/js/2.58c2646c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff6f1b20.js",
+    "static/js/runtime-main.f9573c0f.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.8f0d64aa.chunk.js",
+    "static/js/2.58c2646c.chunk.js",
     "static/css/main.3648b5ec.chunk.css",
-    "static/js/main.8cd139f5.chunk.js"
+    "static/js/main.64d8075d.chunk.js"
   ]
 }
